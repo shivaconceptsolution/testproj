@@ -1,2 +1,1 @@
 echo "jenkins"
-mkdir hello
